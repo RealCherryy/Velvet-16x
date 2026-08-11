@@ -1,0 +1,76 @@
+:root {
+    /* DARKEST */
+    --color-1: #03045E;
+
+    /* DARK */
+    --color-2: #023E8A;
+
+    /* DARK BLUE */
+    --color-3: #0077B6;
+
+    /* BLUE */
+    --color-4: #0096C7;
+
+    /* MAIN ACCENT */
+    --color-5: #00B4D8;
+
+    /* LIGHT ACCENT */
+    --color-6: #48CAE4;
+
+    /* LIGHT */
+    --color-7: #90E0EF;
+
+    /* LIGHTER */
+    --color-8: #ADE8F4;
+
+    /* LIGHTEST */
+    --color-9: #CAF0F8;
+}
+/* 
+not ai i got from website join my discord to kn */
+
+
+.NewButton{
+  background-color: #0096C7 !important;
+}
+
+.RainbowButton{
+  background-color: #0096C7 !important;;
+  background-image: none !important;
+  border-color:#0096C7 !important;
+  box-shadow: none !important;
+}
+
+.TextInput{
+  background-color: #48CAE4 !important;
+  color: white !important;
+}
+
+.JoinPartyHashtag{
+  background-color: #48CAE4 !important;
+}
+
+.JoinPartyInput{
+  color: white !important;
+}
+
+.TextInput.SmallTextBold.JoinLobbyInput{
+  color: #ffffff !important;
+  text-shadow: none !important;
+  -webkit-text-stroke: 0px !important;
+}
+
+.TextInput.SmallTextBold.JoinLobbyInput::placeholder{
+  color: #ffffff !important;
+  opacity: 0.8 !important;
+  text-shadow: none !important;
+  -webkit-text-stroke: 0px !important;
+}
+.TextInput.SmallTextBold.JoinLobbyInput::placeholder{
+  color: #ffffff !important;
+  opacity: 0.7 !important;
+}
+
+.EnterName{
+  background-color: #0096C7 !important;
+}

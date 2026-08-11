@@ -1,0 +1,74 @@
+.AdBannerContainer {
+  opacity: 0 !important;
+  display: none !important;
+  visibility: hidden !important;
+}
+
+.LoadingOverlay .LoadingOverlayLeft {
+    width: 0rem !important;
+    height: 0rem !important;
+    opacity: 0 !important;
+}
+
+.LoadingOverlay .LoadingOverlayRight .LoadingOverlayRightAdBannerContainer {
+    height: 0rem !important;
+    width: 0rem !important;
+    opacity: 0 !important;
+}
+
+div#preroll {
+    display: none !important;
+    width: 0% !important;
+    height: 0vh !important;
+}
+
+.YoutubeHomepageSection{
+  display: none !important;
+}
+.RecentlyPlayedGameList{
+  display: none !important;
+}
+
+.CTAInner{
+  display: none !important;
+}
+
+.RecentlyPlayedGameScroll{
+  visibility: hidden !important;
+}
+
+.RecentlyPlayedLobbies{
+  visibility: hidden !important;
+}
+.LobbyCollectionTitle{
+  visibility: hidden !important;
+}
+
+
+.CenteredDiv .CenteredDivMiddle .TopCustomGameList .TopCustomGameListTitle {
+    width: 0% !important;
+    height: 0% !important;
+    background: none !important;
+    color: #00000000 !important;
+    font-size: 0px !important;
+    border: none !important;
+    padding: 0px !important;
+    transition: none !important;
+    text-shadow: 0 0 BLACK !important;
+}
+
+.CenteredDiv {
+    overflow: hidden !important;
+    height: 200rem !important;
+}
+
+.CenteredDiv .CenteredDivMiddle {
+    gap: 200rem !important;
+    height: unset !important;
+    overflow: hidden !important;
+    flex-grow: 0 !important;
+}
+
+.TopCustomGameList {
+    width: stretch !important;
+}
