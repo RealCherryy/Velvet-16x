@@ -1,0 +1,47 @@
+.EverythingMenu {
+    position: fixed !important;
+    max-height: 98% !important;
+    max-width: 70% !important;
+    border-radius: 2em !important;
+    backdrop-filter: blur(2px)  !important;
+    background-color: #091a29d9 !important;
+    border: none !important;
+}
+
+.EverythingMenuTabList {
+    max-height: 6vh;
+    background-color: transparent !important;
+    z-index: 4 !important;
+}
+
+.EverythingMenuBody {
+    max-width: 100% !important;
+    background-color: transparent !important;
+    background-image: none !important;
+}
+
+.MenuSideBar {
+    background-color: transparent !important;
+}
+
+.EverythingMenuBannerDiv{
+    opacity: 0 !important;
+    height: 0px !important;
+    width: 0px !important;
+}
+
+.MenuSideBarBodyTab.ActiveMenuSideBarBodyTab{
+    background-color: transparent !important;
+}
+
+.MenuSideBarBodyTab{
+    background-color: transparent !important;
+}
+
+.EverythingMenuTab{
+background-color: transparent !important;
+}
+
+.EverythingMenuTab.EverythingMenuTabActive{
+    background-color: transparent !important;
+}

@@ -1,0 +1,33 @@
+.NewButton  {
+    border-radius: 0.3em !important;
+  filter: hue-rotate(20deg) !important;
+}
+
+.ButtonTopBorder {
+    filter: hue-rotate(1deg)!important;
+}
+
+.ButtonBottomBorder {
+    filter: hue-rotate(5deg) !important;
+}
+
+/* Width */
+::-webkit-scrollbar {
+  width: 10px !important;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #222 !important;
+}
+
+/* Scrollbar itself */
+::-webkit-scrollbar-thumb {
+  background: #888 !important;
+  border-radius: 10px !important;
+}
+
+/* Hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #aaa !important;
+}
