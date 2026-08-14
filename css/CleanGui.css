@@ -4,11 +4,13 @@
   visibility: hidden !important;
 }
 
+
 .LoadingOverlay .LoadingOverlayLeft {
     width: 0rem !important;
     height: 0rem !important;
     opacity: 0 !important;
 }
+
 
 .LoadingOverlay .LoadingOverlayRight .LoadingOverlayRightAdBannerContainer {
     height: 0rem !important;
@@ -16,11 +18,13 @@
     opacity: 0 !important;
 }
 
+
 div#preroll {
     display: none !important;
     width: 0% !important;
     height: 0vh !important;
 }
+
 
 .YoutubeHomepageSection{
   display: none !important;
@@ -29,13 +33,16 @@ div#preroll {
   display: none !important;
 }
 
+
 .CTAInner{
   display: none !important;
 }
 
+
 .RecentlyPlayedGameScroll{
   visibility: hidden !important;
 }
+
 
 .RecentlyPlayedLobbies{
   visibility: hidden !important;
@@ -43,6 +50,7 @@ div#preroll {
 .LobbyCollectionTitle{
   visibility: hidden !important;
 }
+
 
 
 .CenteredDiv .CenteredDivMiddle .TopCustomGameList .TopCustomGameListTitle {
@@ -57,10 +65,12 @@ div#preroll {
     text-shadow: 0 0 BLACK !important;
 }
 
+
 .CenteredDiv {
     overflow: hidden !important;
     height: 200rem !important;
 }
+
 
 .CenteredDiv .CenteredDivMiddle {
     gap: 200rem !important;
@@ -69,6 +79,54 @@ div#preroll {
     flex-grow: 0 !important;
 }
 
+
 .TopCustomGameList {
     width: stretch !important;
+}
+
+
+.AddFriendBody{
+  background-color: #120707 !important;
+}
+.SocialBarDivider{
+  display: none !important;
+  visibility: hidden !important;
+}
+.PlayerSearchInput{
+  background-color: #180909 !important;
+}
+.SocialBarBody {
+    background-color: #100505 !important;
+}
+
+
+.AddFriendPreview{
+  background-color: #160808 !important;
+}
+
+.TextInput{
+  background-color: #1A0A0A !important;
+}
+
+.SettingBox{
+  background-color: transparent !important;
+}
+
+.ControlRow{
+  background-color: rgb(68, 17, 17) !important;
+}
+
+.TexturePackList {
+    filter: grayscale(1);
+}
+
+.UpdateLog{
+  background-color: rgb(68, 17, 17) !important;
+}
+.SettingsMenu {
+    --blue-6: #cc1414 !important;
+}
+
+.rc-checkbox{
+  background-color: #cc1414 !important;
 }

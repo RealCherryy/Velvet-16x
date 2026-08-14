@@ -1,0 +1,8 @@
+.Inventory{
+  background-color: rgb(50, 0, 0) !important; 
+}
+
+.InvenItem{
+  background-color: rgb(88, 10, 10) !important;
+  border-color: white;
+}
