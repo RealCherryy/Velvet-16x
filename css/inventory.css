@@ -1,8 +1,21 @@
-.Inventory{
-  background-color: rgb(50, 0, 0) !important; 
+.InvenBodyRight{
+  background-color: black !important;
+  opacity: 0.5 !important;
+}
+.InvenLeftSide{
+  background-color: black !important;
+  opacity: 0.5 !important;
 }
 
 .InvenItem{
   background-color: rgb(88, 10, 10) !important;
-  border-color: white;
+  border-color: rgb(88, 10, 10) !important;
+  border-radius: 50%;
+}
+.InvenItemUnfilled{
+  background-color: rgb(88, 10, 10) !important;
+}
+
+.InvenBody{
+  border-color: transparent !important;
 }
