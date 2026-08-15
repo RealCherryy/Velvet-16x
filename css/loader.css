@@ -19,6 +19,14 @@ z-index:-1 !important;
 pointer-events:none !important;
 }
 
-.PreloadLoaderRing{
-  background-color: red;
+.LogoLoaderInner{
+  background-color: red !important;
+}
+
+.LinksPopupLink{
+  background-color: black !important;
+}
+
+.LinksPopupLinkArrow{
+  color: red !important;
 }

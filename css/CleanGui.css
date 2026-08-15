@@ -155,3 +155,34 @@ div#preroll {
 .LoginButtonContainer{
   background-color: #7B1F0E !important;
 }
+
+
+.Dropdown-control{
+  background-color: black !important;
+}
+
+.HomeSearchBar{
+  background-color: black !important;
+}
+
+.TextFromServerEntityNameWithTags{
+  background-color: black !important;
+}
+
+.GameInformationHeaderTag{
+  background-image: none !important;
+  background-color: rgb(248, 74, 74) !important;
+}
+
+.CustomGameChip{
+  background-color: aliceblue !important;
+  color: black !important;
+}
+
+.CategoryGameListHeader{
+  background-color: rgb(30, 18, 18) !important;
+}
+
+.CategoryGameListSearchIcon{
+  background-color: transparent !important;
+}

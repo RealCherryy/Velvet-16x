@@ -1,0 +1,45 @@
+.MiddleScreenPopup{
+background-color: black !important;
+}
+.GetSuperRankButton{
+  background-color: black !important;
+}
+.SuperRankTableTitle{
+  background-color: brown !important;
+}
+
+.CustomLobbyBody{
+  background: linear-gradient(
+    120deg,
+    #050000,
+    #240000,
+    #8b0000,
+    #160000,
+    #4a0000,
+    #050000
+  ) !important;
+  background-size: 400% 400% !important;
+  animation: CustomLobbySwirl 12s ease-in-out infinite !important;
+}
+
+@keyframes CustomLobbySwirl{
+  0%{background-position:0% 50%}
+  50%{background-position:100% 50%}
+  100%{background-position:0% 50%}
+}
+
+.CreateCustomLobby{
+  background-color: black !important;
+}
+
+.RouterError{
+  background-color: black !important;
+}
+
+.CopyErrorBoxButton{
+  background-color: #4a0000;
+}
+
+.PlayerProfileBackground{
+  background-image: url() !important;
+}
